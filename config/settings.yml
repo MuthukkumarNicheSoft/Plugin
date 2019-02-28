@@ -10,5 +10,5 @@ plugins:
     client: true
 required:
   title:
-     default:"Amnimo"
+     default: "Amnimo"
      client: true
