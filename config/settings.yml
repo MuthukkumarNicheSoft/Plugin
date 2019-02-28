@@ -8,3 +8,7 @@ plugins:
   Themes_enabled:
     default: true
     client: true
+required:
+  title:
+     default:"Amnimo"
+     client: true
