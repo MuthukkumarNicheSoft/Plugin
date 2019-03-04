@@ -262,6 +262,11 @@ a.icon.btn-flat {
 			background-color: #10069f;
 		}
 	}
+	>li.active {
+		>a {
+			background-color: #10069f;
+		}
+	}
 }
 svg.fa.d-icon.d-icon-user.svg-icon.svg-string {
 	color: #ffffff !important;
@@ -340,4 +345,13 @@ svg.fa.d-icon.d-icon-wrench.svg-icon.svg-string {
 }
 a.fancy-title {
 	font-size: 1.125em;
+}
+.admin-customize {
+	.themes-list-header {
+		.tab.active {
+			font-weight: bold;
+			color: #f9f9f9;
+			background: #10069f;
+		}
+	}
 }
