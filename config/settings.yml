@@ -15,4 +15,7 @@ required:
 developer:
   wizard_enabled:
     default: false
-    hidden: false
+    hidden: true
+  bypass_wizard_check:
+    default: true
+    hidden: true
