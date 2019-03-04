@@ -12,3 +12,7 @@ required:
   title:
     client: true
     default: "Amnimo"
+developer:
+  wizard_enabled:
+    default: false
+    hidden: false
