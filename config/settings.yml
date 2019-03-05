@@ -17,17 +17,6 @@ required:
     default: "Japan"
   city_for_disputes:
     default: "Tokyo"
-login:
-  enable_local_logins:
-    client: false
-    default: false
-  enable_local_logins_via_email:
-    client: false
-    default: false
-    validator: "EnableLocalLoginsViaEmailValidator"
-  enable_signup_cta:
-    client: false
-    default: false
 developer:
   wizard_enabled:
     default: false
