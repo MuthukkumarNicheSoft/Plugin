@@ -12,21 +12,6 @@ required:
   title:
     client: true
     default: "Amnimo Community Portal"
-  site_description:
-    default: "IOT community portal forum"
-  contact_email:
-    client: true
-    default: "muthukkumar@nichesoft.net"
-    type: email
-  site_contact_username:
-    default: "system"
-    type: username
-  company_name:
-    default: "Amnimo"
-  governing_law:
-    default: "Japan"
-  city_for_disputes:
-    default: "Tokyo"
 developer:
   wizard_enabled:
     default: false
